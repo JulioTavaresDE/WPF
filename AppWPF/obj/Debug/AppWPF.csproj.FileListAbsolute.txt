@@ -1,0 +1,83 @@
+D:\Curso c#\AppWPF\AppWPF\AppWPF\bin\Debug\AppWPF.exe.config
+D:\Curso c#\AppWPF\AppWPF\AppWPF\bin\Debug\AppWPF.exe
+D:\Curso c#\AppWPF\AppWPF\AppWPF\bin\Debug\AppWPF.pdb
+D:\Curso c#\AppWPF\AppWPF\AppWPF\obj\Debug\AppWPF.csprojAssemblyReference.cache
+D:\Curso c#\AppWPF\AppWPF\AppWPF\obj\Debug\FormAlunos.g.cs
+D:\Curso c#\AppWPF\AppWPF\AppWPF\obj\Debug\JanelaListaAlunos.g.cs
+D:\Curso c#\AppWPF\AppWPF\AppWPF\obj\Debug\App.g.cs
+D:\Curso c#\AppWPF\AppWPF\AppWPF\obj\Debug\AppWPF_MarkupCompile.cache
+D:\Curso c#\AppWPF\AppWPF\AppWPF\obj\Debug\AppWPF_MarkupCompile.lref
+D:\Curso c#\AppWPF\AppWPF\AppWPF\obj\Debug\FormAlunos.baml
+D:\Curso c#\AppWPF\AppWPF\AppWPF\obj\Debug\JanelaListaAlunos.baml
+D:\Curso c#\AppWPF\AppWPF\AppWPF\obj\Debug\AppWPF.g.resources
+D:\Curso c#\AppWPF\AppWPF\AppWPF\obj\Debug\AppWPF.Properties.Resources.resources
+D:\Curso c#\AppWPF\AppWPF\AppWPF\obj\Debug\AppWPF.csproj.GenerateResource.cache
+D:\Curso c#\AppWPF\AppWPF\AppWPF\obj\Debug\AppWPF.csproj.CoreCompileInputs.cache
+D:\Curso c#\AppWPF\AppWPF\AppWPF\obj\Debug\AppWPF.exe
+D:\Curso c#\AppWPF\AppWPF\AppWPF\obj\Debug\AppWPF.pdb
+C:\Users\rodri\Desktop\AppWPF\AppWPF\bin\Debug\AppWPF.exe.config
+C:\Users\rodri\Desktop\AppWPF\AppWPF\bin\Debug\AppWPF.exe
+C:\Users\rodri\Desktop\AppWPF\AppWPF\bin\Debug\AppWPF.pdb
+C:\Users\rodri\Desktop\AppWPF\AppWPF\obj\Debug\AppWPF.csprojAssemblyReference.cache
+C:\Users\rodri\Desktop\AppWPF\AppWPF\obj\Debug\FormAlunos.g.cs
+C:\Users\rodri\Desktop\AppWPF\AppWPF\obj\Debug\JanelaListaAlunos.g.cs
+C:\Users\rodri\Desktop\AppWPF\AppWPF\obj\Debug\App.g.cs
+C:\Users\rodri\Desktop\AppWPF\AppWPF\obj\Debug\AppWPF_MarkupCompile.cache
+C:\Users\rodri\Desktop\AppWPF\AppWPF\obj\Debug\AppWPF_MarkupCompile.lref
+C:\Users\rodri\Desktop\AppWPF\AppWPF\obj\Debug\FormAlunos.baml
+C:\Users\rodri\Desktop\AppWPF\AppWPF\obj\Debug\JanelaListaAlunos.baml
+C:\Users\rodri\Desktop\AppWPF\AppWPF\obj\Debug\AppWPF.g.resources
+C:\Users\rodri\Desktop\AppWPF\AppWPF\obj\Debug\AppWPF.Properties.Resources.resources
+C:\Users\rodri\Desktop\AppWPF\AppWPF\obj\Debug\AppWPF.csproj.GenerateResource.cache
+C:\Users\rodri\Desktop\AppWPF\AppWPF\obj\Debug\AppWPF.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\AppWPF\AppWPF\obj\Debug\AppWPF.exe
+C:\Users\rodri\Desktop\AppWPF\AppWPF\obj\Debug\AppWPF.pdb
+C:\Users\rodri\Desktop\020\AppWPF\AppWPF\bin\Debug\AppWPF.exe.config
+C:\Users\rodri\Desktop\020\AppWPF\AppWPF\bin\Debug\AppWPF.exe
+C:\Users\rodri\Desktop\020\AppWPF\AppWPF\bin\Debug\AppWPF.pdb
+C:\Users\rodri\Desktop\020\AppWPF\AppWPF\bin\Debug\Dapper.dll
+C:\Users\rodri\Desktop\020\AppWPF\AppWPF\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\rodri\Desktop\020\AppWPF\AppWPF\bin\Debug\System.Security.AccessControl.dll
+C:\Users\rodri\Desktop\020\AppWPF\AppWPF\bin\Debug\System.Security.Permissions.dll
+C:\Users\rodri\Desktop\020\AppWPF\AppWPF\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\rodri\Desktop\020\AppWPF\AppWPF\bin\Debug\Dapper.xml
+C:\Users\rodri\Desktop\020\AppWPF\AppWPF\obj\Debug\AppWPF.csprojAssemblyReference.cache
+C:\Users\rodri\Desktop\020\AppWPF\AppWPF\obj\Debug\FormAlunos.g.cs
+C:\Users\rodri\Desktop\020\AppWPF\AppWPF\obj\Debug\JanelaListaAlunos.g.cs
+C:\Users\rodri\Desktop\020\AppWPF\AppWPF\obj\Debug\App.g.cs
+C:\Users\rodri\Desktop\020\AppWPF\AppWPF\obj\Debug\AppWPF_MarkupCompile.cache
+C:\Users\rodri\Desktop\020\AppWPF\AppWPF\obj\Debug\AppWPF_MarkupCompile.lref
+C:\Users\rodri\Desktop\020\AppWPF\AppWPF\obj\Debug\FormAlunos.baml
+C:\Users\rodri\Desktop\020\AppWPF\AppWPF\obj\Debug\JanelaListaAlunos.baml
+C:\Users\rodri\Desktop\020\AppWPF\AppWPF\obj\Debug\AppWPF.g.resources
+C:\Users\rodri\Desktop\020\AppWPF\AppWPF\obj\Debug\AppWPF.Properties.Resources.resources
+C:\Users\rodri\Desktop\020\AppWPF\AppWPF\obj\Debug\AppWPF.csproj.GenerateResource.cache
+C:\Users\rodri\Desktop\020\AppWPF\AppWPF\obj\Debug\AppWPF.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\020\AppWPF\AppWPF\obj\Debug\AppWPF.csproj.CopyComplete
+C:\Users\rodri\Desktop\020\AppWPF\AppWPF\obj\Debug\AppWPF.exe
+C:\Users\rodri\Desktop\020\AppWPF\AppWPF\obj\Debug\AppWPF.pdb
+C:\Users\julio\OneDrive\Área de Trabalho\Udemy\Codigo_Julio\WPF\Prof\AppWPF\020\AppWPF\AppWPF\bin\Debug\AppWPF.exe.config
+C:\Users\julio\OneDrive\Área de Trabalho\Udemy\Codigo_Julio\WPF\Prof\AppWPF\020\AppWPF\AppWPF\bin\Debug\AppWPF.exe
+C:\Users\julio\OneDrive\Área de Trabalho\Udemy\Codigo_Julio\WPF\Prof\AppWPF\020\AppWPF\AppWPF\bin\Debug\AppWPF.pdb
+C:\Users\julio\OneDrive\Área de Trabalho\Udemy\Codigo_Julio\WPF\Prof\AppWPF\020\AppWPF\AppWPF\bin\Debug\Dapper.dll
+C:\Users\julio\OneDrive\Área de Trabalho\Udemy\Codigo_Julio\WPF\Prof\AppWPF\020\AppWPF\AppWPF\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\julio\OneDrive\Área de Trabalho\Udemy\Codigo_Julio\WPF\Prof\AppWPF\020\AppWPF\AppWPF\bin\Debug\System.Security.AccessControl.dll
+C:\Users\julio\OneDrive\Área de Trabalho\Udemy\Codigo_Julio\WPF\Prof\AppWPF\020\AppWPF\AppWPF\bin\Debug\System.Security.Permissions.dll
+C:\Users\julio\OneDrive\Área de Trabalho\Udemy\Codigo_Julio\WPF\Prof\AppWPF\020\AppWPF\AppWPF\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\julio\OneDrive\Área de Trabalho\Udemy\Codigo_Julio\WPF\Prof\AppWPF\020\AppWPF\AppWPF\bin\Debug\Dapper.xml
+C:\Users\julio\OneDrive\Área de Trabalho\Udemy\Codigo_Julio\WPF\Prof\AppWPF\020\AppWPF\AppWPF\obj\Debug\AppWPF.csproj.AssemblyReference.cache
+C:\Users\julio\OneDrive\Área de Trabalho\Udemy\Codigo_Julio\WPF\Prof\AppWPF\020\AppWPF\AppWPF\obj\Debug\AppWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\julio\OneDrive\Área de Trabalho\Udemy\Codigo_Julio\WPF\Prof\AppWPF\020\AppWPF\AppWPF\obj\Debug\FormAlunos.g.cs
+C:\Users\julio\OneDrive\Área de Trabalho\Udemy\Codigo_Julio\WPF\Prof\AppWPF\020\AppWPF\AppWPF\obj\Debug\JanelaListaAlunos.g.cs
+C:\Users\julio\OneDrive\Área de Trabalho\Udemy\Codigo_Julio\WPF\Prof\AppWPF\020\AppWPF\AppWPF\obj\Debug\App.g.cs
+C:\Users\julio\OneDrive\Área de Trabalho\Udemy\Codigo_Julio\WPF\Prof\AppWPF\020\AppWPF\AppWPF\obj\Debug\AppWPF_MarkupCompile.cache
+C:\Users\julio\OneDrive\Área de Trabalho\Udemy\Codigo_Julio\WPF\Prof\AppWPF\020\AppWPF\AppWPF\obj\Debug\AppWPF_MarkupCompile.lref
+C:\Users\julio\OneDrive\Área de Trabalho\Udemy\Codigo_Julio\WPF\Prof\AppWPF\020\AppWPF\AppWPF\obj\Debug\FormAlunos.baml
+C:\Users\julio\OneDrive\Área de Trabalho\Udemy\Codigo_Julio\WPF\Prof\AppWPF\020\AppWPF\AppWPF\obj\Debug\JanelaListaAlunos.baml
+C:\Users\julio\OneDrive\Área de Trabalho\Udemy\Codigo_Julio\WPF\Prof\AppWPF\020\AppWPF\AppWPF\obj\Debug\AppWPF.g.resources
+C:\Users\julio\OneDrive\Área de Trabalho\Udemy\Codigo_Julio\WPF\Prof\AppWPF\020\AppWPF\AppWPF\obj\Debug\AppWPF.Properties.Resources.resources
+C:\Users\julio\OneDrive\Área de Trabalho\Udemy\Codigo_Julio\WPF\Prof\AppWPF\020\AppWPF\AppWPF\obj\Debug\AppWPF.csproj.GenerateResource.cache
+C:\Users\julio\OneDrive\Área de Trabalho\Udemy\Codigo_Julio\WPF\Prof\AppWPF\020\AppWPF\AppWPF\obj\Debug\AppWPF.csproj.CoreCompileInputs.cache
+C:\Users\julio\OneDrive\Área de Trabalho\Udemy\Codigo_Julio\WPF\Prof\AppWPF\020\AppWPF\AppWPF\obj\Debug\AppWPF.csproj.CopyComplete
+C:\Users\julio\OneDrive\Área de Trabalho\Udemy\Codigo_Julio\WPF\Prof\AppWPF\020\AppWPF\AppWPF\obj\Debug\AppWPF.exe
+C:\Users\julio\OneDrive\Área de Trabalho\Udemy\Codigo_Julio\WPF\Prof\AppWPF\020\AppWPF\AppWPF\obj\Debug\AppWPF.pdb

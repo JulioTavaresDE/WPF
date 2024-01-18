@@ -1,0 +1,33 @@
+﻿<Window x:Class="AppWPF.JanelaListaAlunos"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AppWPF"
+        mc:Ignorable="d"
+        Title="JanelaListaClientes" Height="450" Width="800">
+    <Grid>
+        <DataGrid HorizontalAlignment="Left" Height="356" Margin="10,52,-0.4,0" VerticalAlignment="Top" Width="784"
+                  ItemsSource="{Binding Alunos}"
+                  AutoGenerateColumns="True"
+                  IsReadOnly="True"
+                  >
+            <DataGrid.Columns>
+                
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel HorizontalAlignment="Left" Height="47" VerticalAlignment="Top" Width="784" Orientation="Horizontal">
+            <Button Content="Adicionar" Width="75"  CommandParameter="{Binding}"
+                    Command="{Binding Novo}"
+                      Margin="10,0,0,10"/>
+            <Button Content="Editar" 
+                                        CommandParameter="{Binding}"
+                    Command="{Binding Editar}"
+                    Width="75" Margin="10,0,0,10"/>
+            <Button Content="Excluir" 
+                                        CommandParameter="{Binding}"
+                    Command="{Binding Deletar}"
+                    Width="75" Margin="10,0,0,10"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,48 @@
+Criar o banco de dados e as tabelas no banco de dados
+
+Create DataBase Escola
+
+Create table Alunos
+(
+Id numeric(12,0),
+Nome nvarchar(200),
+DataNascimento DateTime,
+Sexo nvarchar(50),
+DataMatricula DateTime,
+EstadoCivil nvarchar(50),
+StatusMatricula nvarchar(50),
+)
+
+Inslatar o System Configuration
+
+https://www.nuget.org/packages/System.Configuration.ConfigurationManager/
+
+Install-Package System.Configuration.ConfigurationManager
+
+Instaltar o Dapper
+
+https://www.nuget.org/packages/Dapper/
+
+Install-Package Dapper
+
+Exemplo de comandos de conexão com banco de dados
+
+using (var conn = new SqlConnection(ConfigurationManager.ConnectionStrings["conn"].ConnectionString))
+{
+    conn.Open();
+    using (SqlTransaction tran = conn.BeginTransaction())
+    {
+        string sql = @" Insert into Alunos Values
+        (@Id,
+        @Nome,
+        @DataNascimento,
+        @Sexo,
+        @DataMatricula,
+        @EstadoCivil,
+        @StatusMatricula )
+";
+
+        Repository.Execute(sql, aluno, conn, tran);
+        tran.Commit();
+    }
+}
